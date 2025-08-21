@@ -1,0 +1,251 @@
+id,age,height_cm,weight_kg,gender,education_level,income_bracket,is_student
+1,23,175.2,68.5,Male,Bachelor,Medium,True
+2,31,162.4,59.1,Female,Master,High,False
+3,19,180.1,72.3,Male,High School,Low,True
+4,27,168.7,65.0,Female,Bachelor,Medium,False
+5,35,170.3,80.2,Male,PhD,High,False
+6,22,158.9,54.7,Female,High School,Low,True
+7,29,182.5,77.8,Male,Master,High,False
+8,24,165.0,60.4,Female,Bachelor,Medium,True
+9,21,177.6,69.2,Male,High School,Low,True
+10,33,160.2,58.0,Female,PhD,High,False
+11,26,172.8,66.1,Male,Bachelor,Medium,False
+12,28,163.5,62.3,Female,Master,Medium,False
+13,20,178.9,70.5,Male,High School,Low,True
+14,32,169.1,75.0,Female,PhD,High,False
+15,25,174.0,67.8,Male,Bachelor,Medium,True
+16,23,161.7,55.9,Female,High School,Low,True
+17,30,181.2,79.3,Male,Master,High,False
+18,27,166.4,63.7,Female,Bachelor,Medium,False
+19,22,176.5,68.0,Male,High School,Low,True
+20,34,159.8,57.2,Female,PhD,High,False
+21,29,173.3,71.4,Male,Master,High,False
+22,24,164.1,61.0,Female,Bachelor,Medium,True
+23,21,179.7,73.1,Male,High School,Low,True
+24,31,167.5,64.8,Female,Master,Medium,False
+25,26,171.0,65.5,Male,Bachelor,Medium,False
+26,28,162.8,60.2,Female,Master,Medium,False
+27,20,177.2,69.7,Male,High School,Low,True
+28,33,170.7,76.3,Female,PhD,High,False
+29,25,175.5,68.9,Male,Bachelor,Medium,True
+30,23,160.9,56.3,Female,High School,Low,True
+31,32,180.4,81.0,Male,PhD,High,False
+32,27,165.6,62.7,Female,Bachelor,Medium,False
+33,22,178.1,71.2,Male,High School,Low,True
+34,30,169.4,74.1,Female,Master,High,False
+35,24,173.8,66.5,Male,Bachelor,Medium,True
+36,21,162.1,55.1,Female,High School,Low,True
+37,29,181.7,78.5,Male,Master,High,False
+38,26,167.0,63.2,Female,Bachelor,Medium,False
+39,20,176.0,68.3,Male,High School,Low,True
+40,34,159.5,57.5,Female,PhD,High,False
+41,28,172.2,67.1,Male,Master,Medium,False
+42,25,163.3,59.8,Female,Bachelor,Medium,True
+43,23,179.0,72.7,Male,High School,Low,True
+44,31,168.2,65.9,Female,Master,Medium,False
+45,27,174.7,68.6,Male,Bachelor,Medium,False
+46,22,161.4,54.3,Female,High School,Low,True
+47,30,180.9,80.5,Male,PhD,High,False
+48,24,166.2,61.7,Female,Bachelor,Medium,True
+49,21,177.9,70.9,Male,High School,Low,True
+50,33,170.0,75.7,Female,PhD,High,False
+51,26,173.1,66.8,Male,Bachelor,Medium,False
+52,28,162.6,60.0,Female,Master,Medium,False
+53,20,178.4,70.2,Male,High School,Low,True
+54,32,169.7,74.8,Female,PhD,High,False
+55,25,175.8,69.1,Male,Bachelor,Medium,True
+56,23,161.2,55.6,Female,High School,Low,True
+57,29,182.0,78.9,Male,Master,High,False
+58,27,165.9,62.9,Female,Bachelor,Medium,False
+59,22,176.8,68.6,Male,High School,Low,True
+60,34,159.2,57.8,Female,PhD,High,False
+61,28,172.5,67.3,Male,Master,Medium,False
+62,25,163.6,60.1,Female,Bachelor,Medium,True
+63,23,179.3,73.0,Male,High School,Low,True
+64,31,168.5,66.2,Female,Master,Medium,False
+65,27,174.4,68.3,Male,Bachelor,Medium,False
+66,22,161.9,54.8,Female,High School,Low,True
+67,30,181.4,79.7,Male,PhD,High,False
+68,24,166.5,62.0,Female,Bachelor,Medium,True
+69,21,178.2,71.5,Male,High School,Low,True
+70,33,170.9,76.0,Female,PhD,High,False
+71,26,172.9,67.0,Male,Bachelor,Medium,False
+72,28,163.1,60.5,Female,Master,Medium,False
+73,20,177.5,69.9,Male,High School,Low,True
+74,32,169.3,75.2,Female,PhD,High,False
+75,25,175.2,68.7,Male,Bachelor,Medium,True
+76,23,160.7,56.1,Female,High School,Low,True
+77,29,181.9,78.7,Male,Master,High,False
+78,27,166.1,63.4,Female,Bachelor,Medium,False
+79,22,176.3,68.2,Male,High School,Low,True
+80,34,159.7,57.4,Female,PhD,High,False
+81,28,172.7,67.5,Male,Master,Medium,False
+82,25,163.9,60.3,Female,Bachelor,Medium,True
+83,23,179.6,73.3,Male,High School,Low,True
+84,31,168.8,66.4,Female,Master,Medium,False
+85,27,174.1,68.1,Male,Bachelor,Medium,False
+86,22,161.6,55.0,Female,High School,Low,True
+87,30,181.1,79.5,Male,PhD,High,False
+88,24,166.8,62.2,Female,Bachelor,Medium,True
+89,21,178.5,71.7,Male,High School,Low,True
+90,33,170.6,75.9,Female,PhD,High,False
+91,26,173.4,66.9,Male,Bachelor,Medium,False
+92,28,162.9,60.4,Female,Master,Medium,False
+93,20,178.7,70.4,Male,High School,Low,True
+94,32,169.0,75.1,Female,PhD,High,False
+95,25,175.7,69.0,Male,Bachelor,Medium,True
+96,23,161.0,55.8,Female,High School,Low,True
+97,29,182.2,79.1,Male,Master,High,False
+98,27,165.8,63.1,Female,Bachelor,Medium,False
+99,22,176.6,68.4,Male,High School,Low,True
+100,34,159.4,57.6,Female,PhD,High,False
+101,28,172.4,67.2,Male,Master,Medium,False
+102,25,163.2,59.9,Female,Bachelor,Medium,True
+103,23,179.1,72.8,Male,High School,Low,True
+104,31,168.1,65.8,Female,Master,Medium,False
+105,27,174.6,68.5,Male,Bachelor,Medium,False
+106,22,161.3,54.5,Female,High School,Low,True
+107,30,180.8,80.3,Male,PhD,High,False
+108,24,166.3,61.8,Female,Bachelor,Medium,True
+109,21,177.8,70.8,Male,High School,Low,True
+110,33,170.1,75.8,Female,PhD,High,False
+111,26,173.0,66.7,Male,Bachelor,Medium,False
+112,28,162.7,60.1,Female,Master,Medium,False
+113,20,178.3,70.1,Male,High School,Low,True
+114,32,169.6,74.9,Female,PhD,High,False
+115,25,175.9,69.2,Male,Bachelor,Medium,True
+116,23,161.1,55.7,Female,High School,Low,True
+117,29,182.1,79.0,Male,Master,High,False
+118,27,166.0,63.3,Female,Bachelor,Medium,False
+119,22,176.9,68.7,Male,High School,Low,True
+120,34,159.6,57.7,Female,PhD,High,False
+121,28,172.6,67.4,Male,Master,Medium,False
+122,25,163.8,60.2,Female,Bachelor,Medium,True
+123,23,179.4,73.1,Male,High School,Low,True
+124,31,168.6,66.3,Female,Master,Medium,False
+125,27,174.3,68.2,Male,Bachelor,Medium,False
+126,22,161.8,54.9,Female,High School,Low,True
+127,30,181.3,79.6,Male,PhD,High,False
+128,24,166.6,62.1,Female,Bachelor,Medium,True
+129,21,178.1,71.6,Male,High School,Low,True
+130,33,170.8,76.1,Female,PhD,High,False
+131,26,172.8,67.1,Male,Bachelor,Medium,False
+132,28,163.0,60.6,Female,Master,Medium,False
+133,20,177.6,69.8,Male,High School,Low,True
+134,32,169.2,75.3,Female,PhD,High,False
+135,25,175.3,68.8,Male,Bachelor,Medium,True
+136,23,160.8,56.2,Female,High School,Low,True
+137,29,181.8,78.8,Male,Master,High,False
+138,27,166.2,63.5,Female,Bachelor,Medium,False
+139,22,176.2,68.1,Male,High School,Low,True
+140,34,159.3,57.9,Female,PhD,High,False
+141,28,172.3,67.0,Male,Master,Medium,False
+142,25,163.5,60.0,Female,Bachelor,Medium,True
+143,23,179.2,72.9,Male,High School,Low,True
+144,31,168.3,66.0,Female,Master,Medium,False
+145,27,174.8,68.7,Male,Bachelor,Medium,False
+146,22,161.5,55.1,Female,High School,Low,True
+147,30,181.0,79.4,Male,PhD,High,False
+148,24,166.9,62.3,Female,Bachelor,Medium,True
+149,21,178.4,71.8,Male,High School,Low,True
+150,33,170.5,75.6,Female,PhD,High,False
+151,26,173.5,67.2,Male,Bachelor,Medium,False
+152,28,163.2,60.3,Female,Master,Medium,False
+153,20,178.6,70.3,Male,High School,Low,True
+154,32,169.1,75.0,Female,PhD,High,False
+155,25,175.6,68.9,Male,Bachelor,Medium,True
+156,23,161.3,55.9,Female,High School,Low,True
+157,29,182.3,79.2,Male,Master,High,False
+158,27,165.7,63.0,Female,Bachelor,Medium,False
+159,22,176.7,68.5,Male,High School,Low,True
+160,34,159.1,57.3,Female,PhD,High,False
+161,28,172.1,66.9,Male,Master,Medium,False
+162,25,163.1,59.8,Female,Bachelor,Medium,True
+163,23,179.0,72.6,Male,High School,Low,True
+164,31,168.0,65.7,Female,Master,Medium,False
+165,27,174.5,68.4,Male,Bachelor,Medium,False
+166,22,161.2,54.6,Female,High School,Low,True
+167,30,180.7,80.2,Male,PhD,High,False
+168,24,166.4,61.9,Female,Bachelor,Medium,True
+169,21,177.7,70.7,Male,High School,Low,True
+170,33,170.2,75.5,Female,PhD,High,False
+171,26,173.2,66.6,Male,Bachelor,Medium,False
+172,28,162.8,60.2,Female,Master,Medium,False
+173,20,178.2,70.0,Male,High School,Low,True
+174,32,169.5,75.0,Female,PhD,High,False
+175,25,175.4,68.6,Male,Bachelor,Medium,True
+176,23,160.6,56.0,Female,High School,Low,True
+177,29,181.6,78.6,Male,Master,High,False
+178,27,166.3,63.6,Female,Bachelor,Medium,False
+179,22,176.1,68.0,Male,High School,Low,True
+180,34,159.0,57.2,Female,PhD,High,False
+181,28,172.0,66.8,Male,Master,Medium,False
+182,25,163.0,59.7,Female,Bachelor,Medium,True
+183,23,178.9,72.5,Male,High School,Low,True
+184,31,167.9,65.6,Female,Master,Medium,False
+185,27,174.2,68.1,Male,Bachelor,Medium,False
+186,22,161.1,54.4,Female,High School,Low,True
+187,30,180.6,80.1,Male,PhD,High,False
+188,24,166.7,62.2,Female,Bachelor,Medium,True
+189,21,177.9,70.9,Male,High School,Low,True
+190,33,170.3,75.4,Female,PhD,High,False
+191,26,173.6,67.3,Male,Bachelor,Medium,False
+192,28,163.3,60.4,Female,Master,Medium,False
+193,20,178.5,70.2,Male,High School,Low,True
+194,32,169.8,75.1,Female,PhD,High,False
+195,25,175.1,68.5,Male,Bachelor,Medium,True
+196,23,161.4,56.0,Female,High School,Low,True
+197,29,182.4,79.3,Male,Master,High,False
+198,27,165.6,62.9,Female,Bachelor,Medium,False
+199,22,176.4,68.3,Male,High School,Low,True
+200,34,159.9,57.5,Female,PhD,High,False
+201,28,172.8,67.1,Male,Master,Medium,False
+202,25,163.7,60.1,Female,Bachelor,Medium,True
+203,23,179.2,73.0,Male,High School,Low,True
+204,31,168.4,66.1,Female,Master,Medium,False
+205,27,174.9,68.8,Male,Bachelor,Medium,False
+206,22,161.7,55.2,Female,High School,Low,True
+207,30,181.5,79.8,Male,PhD,High,False
+208,24,166.5,62.0,Female,Bachelor,Medium,True
+209,21,178.3,71.4,Male,High School,Low,True
+210,33,170.7,76.2,Female,PhD,High,False
+211,26,173.7,67.4,Male,Bachelor,Medium,False
+212,28,163.4,60.5,Female,Master,Medium,False
+213,20,177.8,69.7,Male,High School,Low,True
+214,32,169.9,75.2,Female,PhD,High,False
+215,25,175.0,68.4,Male,Bachelor,Medium,True
+216,23,160.9,56.3,Female,High School,Low,True
+217,29,181.2,78.4,Male,Master,High,False
+218,27,166.4,63.7,Female,Bachelor,Medium,False
+219,22,176.5,68.1,Male,High School,Low,True
+220,34,159.2,57.8,Female,PhD,High,False
+221,28,172.2,67.0,Male,Master,Medium,False
+222,25,163.3,59.8,Female,Bachelor,Medium,True
+223,23,179.0,72.7,Male,High School,Low,True
+224,31,168.2,65.9,Female,Master,Medium,False
+225,27,174.7,68.6,Male,Bachelor,Medium,False
+226,22,161.4,54.3,Female,High School,Low,True
+227,30,180.9,80.5,Male,PhD,High,False
+228,24,166.2,61.7,Female,Bachelor,Medium,True
+229,21,177.9,70.9,Male,High School,Low,True
+230,33,170.0,75.7,Female,PhD,High,False
+231,26,173.1,66.8,Male,Bachelor,Medium,False
+232,28,162.6,60.0,Female,Master,Medium,False
+233,20,178.4,70.2,Male,High School,Low,True
+234,32,169.7,74.8,Female,PhD,High,False
+235,25,175.8,69.1,Male,Bachelor,Medium,True
+236,23,161.2,55.6,Female,High School,Low,True
+237,29,182.0,78.9,Male,Master,High,False
+238,27,165.9,62.9,Female,Bachelor,Medium,False
+239,22,176.8,68.6,Male,High School,Low,True
+240,34,159.2,57.8,Female,PhD,High,False
+241,28,172.5,67.3,Male,Master,Medium,False
+242,25,163.6,60.1,Female,Bachelor,Medium,True
+243,23,179.3,73.0,Male,High School,Low,True
+244,31,168.5,66.2,Female,Master,Medium,False
+245,27,174.4,68.3,Male,Bachelor,Medium,False
+246,22,161.9,54.8,Female,High School,Low,True
+247,30,181.4,79.7,Male,PhD,High,False
+248,24,166.5,62.0,Female,Bachelor,Medium,True
+249,21,178.2,71.5,Male,High School,Low,True
+250,33,170.9,76.0,Female,PhD,High,False

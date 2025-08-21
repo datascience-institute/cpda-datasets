@@ -1,0 +1,151 @@
+UserID,Age,Gender,Country,Programming_Experience_Years,Primary_IDE,Uses_Python_for,Weekly_Python_Hours,Prefers_Open_Source
+1001,23,Female,India,1,Spyder,Data Analysis,8,Yes
+1002,29,Male,USA,5,PyCharm,Web Development,15,Yes
+1003,35,Non-binary,UK,10,VSCode,Machine Learning,20,Yes
+1004,41,Female,Germany,12,Spyder,Scientific Computing,12,Yes
+1005,27,Male,Canada,3,Jupyter,Education,6,Yes
+1006,22,Female,India,0,Thonny,Learning,4,Yes
+1007,31,Male,Australia,7,PyCharm,Software Development,18,No
+1008,38,Female,USA,15,Spyder,Data Analysis,25,Yes
+1009,26,Male,France,2,VSCode,Web Development,10,Yes
+1010,24,Female,India,1,Spyder,Education,7,Yes
+1011,33,Male,UK,8,PyCharm,Machine Learning,14,No
+1012,45,Female,Germany,20,Spyder,Scientific Computing,30,Yes
+1013,28,Male,USA,4,VSCode,Data Analysis,9,Yes
+1014,36,Female,Canada,11,Jupyter,Research,16,Yes
+1015,30,Non-binary,Australia,6,PyCharm,Software Development,13,No
+1016,21,Male,India,0,Thonny,Learning,3,Yes
+1017,40,Female,France,14,Spyder,Scientific Computing,22,Yes
+1018,25,Male,UK,2,VSCode,Web Development,8,Yes
+1019,32,Female,USA,9,PyCharm,Data Analysis,17,No
+1020,27,Male,Germany,3,Spyder,Education,6,Yes
+1021,23,Female,India,1,Spyder,Learning,5,Yes
+1022,29,Male,Canada,5,Jupyter,Research,12,Yes
+1023,34,Female,Australia,10,VSCode,Machine Learning,19,Yes
+1024,39,Male,USA,13,PyCharm,Software Development,21,No
+1025,26,Female,UK,2,Spyder,Data Analysis,7,Yes
+1026,31,Male,Germany,7,VSCode,Web Development,15,Yes
+1027,22,Female,India,0,Thonny,Learning,4,Yes
+1028,37,Male,France,12,Spyder,Scientific Computing,18,Yes
+1029,28,Female,USA,4,PyCharm,Data Analysis,11,No
+1030,35,Male,Canada,9,Jupyter,Research,16,Yes
+1031,24,Female,Australia,1,Spyder,Education,6,Yes
+1032,33,Male,UK,8,VSCode,Web Development,14,Yes
+1033,41,Female,Germany,15,Spyder,Scientific Computing,23,Yes
+1034,27,Male,India,3,PyCharm,Learning,7,Yes
+1035,29,Female,USA,5,Spyder,Data Analysis,10,Yes
+1036,36,Male,Canada,11,Jupyter,Research,17,Yes
+1037,22,Female,Australia,0,Thonny,Learning,3,Yes
+1038,38,Male,France,13,Spyder,Scientific Computing,20,Yes
+1039,25,Female,UK,2,VSCode,Web Development,8,Yes
+1040,32,Male,USA,7,PyCharm,Software Development,15,No
+1041,23,Female,India,1,Spyder,Education,5,Yes
+1042,30,Male,Germany,6,VSCode,Data Analysis,12,Yes
+1043,35,Female,Canada,10,Jupyter,Research,18,Yes
+1044,28,Male,Australia,4,PyCharm,Machine Learning,11,No
+1045,40,Female,France,14,Spyder,Scientific Computing,22,Yes
+1046,26,Male,UK,2,VSCode,Web Development,9,Yes
+1047,31,Female,USA,8,PyCharm,Data Analysis,16,No
+1048,24,Male,India,1,Spyder,Learning,6,Yes
+1049,33,Female,Germany,9,Spyder,Scientific Computing,17,Yes
+1050,27,Male,Canada,3,Jupyter,Education,7,Yes
+1051,22,Female,Australia,0,Thonny,Learning,4,Yes
+1052,37,Male,France,12,Spyder,Scientific Computing,19,Yes
+1053,29,Female,USA,5,PyCharm,Data Analysis,12,No
+1054,36,Male,UK,11,VSCode,Web Development,18,Yes
+1055,23,Female,India,1,Spyder,Education,5,Yes
+1056,31,Male,Germany,7,VSCode,Data Analysis,14,Yes
+1057,25,Female,Canada,2,Jupyter,Research,8,Yes
+1058,34,Male,Australia,9,PyCharm,Machine Learning,15,No
+1059,41,Female,France,16,Spyder,Scientific Computing,24,Yes
+1060,28,Male,USA,4,VSCode,Web Development,10,Yes
+1061,32,Female,UK,8,PyCharm,Data Analysis,13,No
+1062,24,Male,India,1,Spyder,Learning,6,Yes
+1063,35,Female,Germany,10,Spyder,Scientific Computing,18,Yes
+1064,27,Male,Canada,3,Jupyter,Education,7,Yes
+1065,22,Female,Australia,0,Thonny,Learning,3,Yes
+1066,38,Male,France,13,Spyder,Scientific Computing,21,Yes
+1067,29,Female,USA,5,PyCharm,Data Analysis,11,No
+1068,36,Male,UK,11,VSCode,Web Development,17,Yes
+1069,23,Female,India,1,Spyder,Education,5,Yes
+1070,30,Male,Germany,6,VSCode,Data Analysis,12,Yes
+1071,35,Female,Canada,10,Jupyter,Research,17,Yes
+1072,28,Male,Australia,4,PyCharm,Machine Learning,10,No
+1073,40,Female,France,14,Spyder,Scientific Computing,22,Yes
+1074,26,Male,UK,2,VSCode,Web Development,8,Yes
+1075,31,Female,USA,8,PyCharm,Data Analysis,15,No
+1076,24,Male,India,1,Spyder,Learning,6,Yes
+1077,33,Female,Germany,9,Spyder,Scientific Computing,16,Yes
+1078,27,Male,Canada,3,Jupyter,Education,7,Yes
+1079,22,Female,Australia,0,Thonny,Learning,4,Yes
+1080,37,Male,France,12,Spyder,Scientific Computing,19,Yes
+1081,29,Female,USA,5,PyCharm,Data Analysis,12,No
+1082,36,Male,UK,11,VSCode,Web Development,18,Yes
+1083,23,Female,India,1,Spyder,Education,5,Yes
+1084,31,Male,Germany,7,VSCode,Data Analysis,14,Yes
+1085,25,Female,Canada,2,Jupyter,Research,8,Yes
+1086,34,Male,Australia,9,PyCharm,Machine Learning,15,No
+1087,41,Female,France,16,Spyder,Scientific Computing,24,Yes
+1088,28,Male,USA,4,VSCode,Web Development,10,Yes
+1089,32,Female,UK,8,PyCharm,Data Analysis,13,No
+1090,24,Male,India,1,Spyder,Learning,6,Yes
+1091,35,Female,Germany,10,Spyder,Scientific Computing,18,Yes
+1092,27,Male,Canada,3,Jupyter,Education,7,Yes
+1093,22,Female,Australia,0,Thonny,Learning,3,Yes
+1094,38,Male,France,13,Spyder,Scientific Computing,21,Yes
+1095,29,Female,USA,5,PyCharm,Data Analysis,11,No
+1096,36,Male,UK,11,VSCode,Web Development,17,Yes
+1097,23,Female,India,1,Spyder,Education,5,Yes
+1098,30,Male,Germany,6,VSCode,Data Analysis,12,Yes
+1099,35,Female,Canada,10,Jupyter,Research,17,Yes
+1100,28,Male,Australia,4,PyCharm,Machine Learning,10,No
+1101,40,Female,France,14,Spyder,Scientific Computing,22,Yes
+1102,26,Male,UK,2,VSCode,Web Development,8,Yes
+1103,31,Female,USA,8,PyCharm,Data Analysis,15,No
+1104,24,Male,India,1,Spyder,Learning,6,Yes
+1105,33,Female,Germany,9,Spyder,Scientific Computing,16,Yes
+1106,27,Male,Canada,3,Jupyter,Education,7,Yes
+1107,22,Female,Australia,0,Thonny,Learning,4,Yes
+1108,37,Male,France,12,Spyder,Scientific Computing,19,Yes
+1109,29,Female,USA,5,PyCharm,Data Analysis,12,No
+1110,36,Male,UK,11,VSCode,Web Development,18,Yes
+1111,23,Female,India,1,Spyder,Education,5,Yes
+1112,31,Male,Germany,7,VSCode,Data Analysis,14,Yes
+1113,25,Female,Canada,2,Jupyter,Research,8,Yes
+1114,34,Male,Australia,9,PyCharm,Machine Learning,15,No
+1115,41,Female,France,16,Spyder,Scientific Computing,24,Yes
+1116,28,Male,USA,4,VSCode,Web Development,10,Yes
+1117,32,Female,UK,8,PyCharm,Data Analysis,13,No
+1118,24,Male,India,1,Spyder,Learning,6,Yes
+1119,35,Female,Germany,10,Spyder,Scientific Computing,18,Yes
+1120,27,Male,Canada,3,Jupyter,Education,7,Yes
+1121,22,Female,Australia,0,Thonny,Learning,3,Yes
+1122,38,Male,France,13,Spyder,Scientific Computing,21,Yes
+1123,29,Female,USA,5,PyCharm,Data Analysis,11,No
+1124,36,Male,UK,11,VSCode,Web Development,17,Yes
+1125,23,Female,India,1,Spyder,Education,5,Yes
+1126,30,Male,Germany,6,VSCode,Data Analysis,12,Yes
+1127,35,Female,Canada,10,Jupyter,Research,17,Yes
+1128,28,Male,Australia,4,PyCharm,Machine Learning,10,No
+1129,40,Female,France,14,Spyder,Scientific Computing,22,Yes
+1130,26,Male,UK,2,VSCode,Web Development,8,Yes
+1131,31,Female,USA,8,PyCharm,Data Analysis,15,No
+1132,24,Male,India,1,Spyder,Learning,6,Yes
+1133,33,Female,Germany,9,Spyder,Scientific Computing,16,Yes
+1134,27,Male,Canada,3,Jupyter,Education,7,Yes
+1135,22,Female,Australia,0,Thonny,Learning,4,Yes
+1136,37,Male,France,12,Spyder,Scientific Computing,19,Yes
+1137,29,Female,USA,5,PyCharm,Data Analysis,12,No
+1138,36,Male,UK,11,VSCode,Web Development,18,Yes
+1139,23,Female,India,1,Spyder,Education,5,Yes
+1140,31,Male,Germany,7,VSCode,Data Analysis,14,Yes
+1141,25,Female,Canada,2,Jupyter,Research,8,Yes
+1142,34,Male,Australia,9,PyCharm,Machine Learning,15,No
+1143,41,Female,France,16,Spyder,Scientific Computing,24,Yes
+1144,28,Male,USA,4,VSCode,Web Development,10,Yes
+1145,32,Female,UK,8,PyCharm,Data Analysis,13,No
+1146,24,Male,India,1,Spyder,Learning,6,Yes
+1147,35,Female,Germany,10,Spyder,Scientific Computing,18,Yes
+1148,27,Male,Canada,3,Jupyter,Education,7,Yes
+1149,22,Female,Australia,0,Thonny,Learning,3,Yes
+1150,38,Male,France,13,Spyder,Scientific Computing,21,Yes

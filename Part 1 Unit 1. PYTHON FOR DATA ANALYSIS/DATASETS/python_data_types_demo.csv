@@ -1,0 +1,151 @@
+object_id,number_int,number_float,string_example,list_example,tuple_example,dictionary_example,is_mutable
+1,42,3.14,"hello world","[1, 2, 3, 'a']","('a', 2, 3.5)","{'key1': 10, 'key2': 'val'}",True
+2,-7,0.001,"python","['x', 5, 7.2]","(5, 6, 'b')","{'name': 'Sam', 'age': 22}",True
+3,100,99.99,"data science","[10, 20, 30]","('tuple', 1, 2)","{'city': 'NY', 'zip': 10001}",True
+4,0,-12.5,"indexing","['a', 'b', 'c']","(0, 1, 2)","{'a': 1, 'b': 2}",True
+5,17,2.718,"immutable","[3.14, 2.71, 0]","('immutable', 7)","{'type': 'float', 'value': 2.71}",True
+6,8,6.022,"mutable","[8, 6, 0, 'z']","('m', 8, 6.0)","{'list': [1,2], 'len': 2}",True
+7,23,1.618,"sequence","['seq', 23, 1.6]","('seq', 23)","{'seq': 'abc', 'len': 3}",True
+8,55,0.0,"python3","[5, 5, 5, 5]","(5, 5, 5)","{'repeat': 4, 'val': 5}",True
+9,-12,-3.5,"object","['obj', -12, -3.5]","('obj', -12)","{'obj': -12, 'type': 'int'}",True
+10,7,7.77,"tuple","[7, 7.77, 't']","('tuple', 7.77)","{'tuple': True, 'val': 7.77}",True
+11,99,0.123,"list","[99, 0.123, 'l']","('list', 99)","{'list': True, 'val': 99}",True
+12,1,2.0,"dictionary","[1, 2, 'dict']","('dict', 1, 2)","{'dict': True, 'len': 2}",True
+13,5,5.5,"string","[5, 5.5, 's']","('string', 5.5)","{'string': 'abc', 'len': 3}",True
+14,14,1.4,"number","[14, 1.4, 'n']","('number', 14)","{'number': 14, 'type': 'int'}",True
+15,21,2.1,"key-value","[21, 2.1, 'kv']","('key', 'value')","{'key': 'value'}",True
+16,33,3.3,"element","[33, 3.3, 'e']","('element', 33)","{'element': 33}",True
+17,44,4.4,"update","[44, 4.4, 'u']","('update', 44)","{'update': 44}",True
+18,56,5.6,"delete","[56, 5.6, 'd']","('delete', 56)","{'delete': 56}",True
+19,67,6.7,"access","[67, 6.7, 'a']","('access', 67)","{'access': 67}",True
+20,78,7.8,"index","[78, 7.8, 'i']","('index', 78)","{'index': 78}",True
+21,89,8.9,"len","[89, 8.9, 'l']","('len', 89)","{'len': 89}",True
+22,90,9.0,"append","[90, 9.0, 'ap']","('append', 90)","{'append': 90}",True
+23,12,1.2,"remove","[12, 1.2, 'rm']","('remove', 12)","{'remove': 12}",True
+24,34,3.4,"insert","[34, 3.4, 'in']","('insert', 34)","{'insert': 34}",True
+25,56,5.6,"sort","[56, 5.6, 'so']","('sort', 56)","{'sort': 56}",True
+26,78,7.8,"reverse","[78, 7.8, 're']","('reverse', 78)","{'reverse': 78}",True
+27,11,1.1,"clear","[11, 1.1, 'cl']","('clear', 11)","{'clear': 11}",True
+28,22,2.2,"del","[22, 2.2, 'de']","('del', 22)","{'del': 22}",True
+29,33,3.3,"type","[33, 3.3, 'ty']","('type', 33)","{'type': 33}",True
+30,44,4.4,"str","[44, 4.4, 'st']","('str', 44)","{'str': 44}",True
+31,55,5.5,"int","[55, 5.5, 'in']","('int', 55)","{'int': 55}",True
+32,66,6.6,"float","[66, 6.6, 'fl']","('float', 66)","{'float': 66}",True
+33,77,7.7,"bool","[77, 7.7, 'bo']","('bool', 77)","{'bool': 77}",True
+34,88,8.8,"none","[88, 8.8, 'no']","('none', 88)","{'none': 88}",True
+35,99,9.9,"object","[99, 9.9, 'ob']","('object', 99)","{'object': 99}",True
+36,12,1.2,"python","[12, 1.2, 'py']","('python', 12)","{'python': 12}",True
+37,23,2.3,"world","[23, 2.3, 'wo']","('world', 23)","{'world': 23}",True
+38,34,3.4,"practice","[34, 3.4, 'pr']","('practice', 34)","{'practice': 34}",True
+39,45,4.5,"lesson","[45, 4.5, 'le']","('lesson', 45)","{'lesson': 45}",True
+40,56,5.6,"example","[56, 5.6, 'ex']","('example', 56)","{'example': 56}",True
+41,67,6.7,"variable","[67, 6.7, 'va']","('variable', 67)","{'variable': 67}",True
+42,78,7.8,"value","[78, 7.8, 'va']","('value', 78)","{'value': 78}",True
+43,89,8.9,"key","[89, 8.9, 'ke']","('key', 89)","{'key': 89}",True
+44,90,9.0,"pair","[90, 9.0, 'pa']","('pair', 90)","{'pair': 90}",True
+45,12,1.2,"item","[12, 1.2, 'it']","('item', 12)","{'item': 12}",True
+46,23,2.3,"element","[23, 2.3, 'el']","('element', 23)","{'element': 23}",True
+47,34,3.4,"sequence","[34, 3.4, 'se']","('sequence', 34)","{'sequence': 34}",True
+48,45,4.5,"container","[45, 4.5, 'co']","('container', 45)","{'container': 45}",True
+49,56,5.6,"collection","[56, 5.6, 'cl']","('collection', 56)","{'collection': 56}",True
+50,67,6.7,"mapping","[67, 6.7, 'ma']","('mapping', 67)","{'mapping': 67}",True
+51,78,7.8,"indexing","[78, 7.8, 'in']","('indexing', 78)","{'indexing': 78}",True
+52,89,8.9,"access","[89, 8.9, 'ac']","('access', 89)","{'access': 89}",True
+53,90,9.0,"update","[90, 9.0, 'up']","('update', 90)","{'update': 90}",True
+54,12,1.2,"delete","[12, 1.2, 'de']","('delete', 12)","{'delete': 12}",True
+55,23,2.3,"add","[23, 2.3, 'ad']","('add', 23)","{'add': 23}",True
+56,34,3.4,"remove","[34, 3.4, 're']","('remove', 34)","{'remove': 34}",True
+57,45,4.5,"insert","[45, 4.5, 'in']","('insert', 45)","{'insert': 45}",True
+58,56,5.6,"sort","[56, 5.6, 'so']","('sort', 56)","{'sort': 56}",True
+59,67,6.7,"reverse","[67, 6.7, 're']","('reverse', 67)","{'reverse': 67}",True
+60,78,7.8,"clear","[78, 7.8, 'cl']","('clear', 78)","{'clear': 78}",True
+61,89,8.9,"del","[89, 8.9, 'de']","('del', 89)","{'del': 89}",True
+62,90,9.0,"type","[90, 9.0, 'ty']","('type', 90)","{'type': 90}",True
+63,12,1.2,"str","[12, 1.2, 'st']","('str', 12)","{'str': 12}",True
+64,23,2.3,"int","[23, 2.3, 'in']","('int', 23)","{'int': 23}",True
+65,34,3.4,"float","[34, 3.4, 'fl']","('float', 34)","{'float': 34}",True
+66,45,4.5,"bool","[45, 4.5, 'bo']","('bool', 45)","{'bool': 45}",True
+67,56,5.6,"none","[56, 5.6, 'no']","('none', 56)","{'none': 56}",True
+68,67,6.7,"object","[67, 6.7, 'ob']","('object', 67)","{'object': 67}",True
+69,78,7.8,"python","[78, 7.8, 'py']","('python', 78)","{'python': 78}",True
+70,89,8.9,"world","[89, 8.9, 'wo']","('world', 89)","{'world': 89}",True
+71,90,9.0,"practice","[90, 9.0, 'pr']","('practice', 90)","{'practice': 90}",True
+72,12,1.2,"lesson","[12, 1.2, 'le']","('lesson', 12)","{'lesson': 12}",True
+73,23,2.3,"example","[23, 2.3, 'ex']","('example', 23)","{'example': 23}",True
+74,34,3.4,"variable","[34, 3.4, 'va']","('variable', 34)","{'variable': 34}",True
+75,45,4.5,"value","[45, 4.5, 'va']","('value', 45)","{'value': 45}",True
+76,56,5.6,"key","[56, 5.6, 'ke']","('key', 56)","{'key': 56}",True
+77,67,6.7,"pair","[67, 6.7, 'pa']","('pair', 67)","{'pair': 67}",True
+78,78,7.8,"item","[78, 7.8, 'it']","('item', 78)","{'item': 78}",True
+79,89,8.9,"element","[89, 8.9, 'el']","('element', 89)","{'element': 89}",True
+80,90,9.0,"sequence","[90, 9.0, 'se']","('sequence', 90)","{'sequence': 90}",True
+81,12,1.2,"container","[12, 1.2, 'co']","('container', 12)","{'container': 12}",True
+82,23,2.3,"collection","[23, 2.3, 'cl']","('collection', 23)","{'collection': 23}",True
+83,34,3.4,"mapping","[34, 3.4, 'ma']","('mapping', 34)","{'mapping': 34}",True
+84,45,4.5,"indexing","[45, 4.5, 'in']","('indexing', 45)","{'indexing': 45}",True
+85,56,5.6,"access","[56, 5.6, 'ac']","('access', 56)","{'access': 56}",True
+86,67,6.7,"update","[67, 6.7, 'up']","('update', 67)","{'update': 67}",True
+87,78,7.8,"delete","[78, 7.8, 'de']","('delete', 78)","{'delete': 78}",True
+88,89,8.9,"add","[89, 8.9, 'ad']","('add', 89)","{'add': 89}",True
+89,90,9.0,"remove","[90, 9.0, 're']","('remove', 90)","{'remove': 90}",True
+90,12,1.2,"insert","[12, 1.2, 'in']","('insert', 12)","{'insert': 12}",True
+91,23,2.3,"sort","[23, 2.3, 'so']","('sort', 23)","{'sort': 23}",True
+92,34,3.4,"reverse","[34, 3.4, 're']","('reverse', 34)","{'reverse': 34}",True
+93,45,4.5,"clear","[45, 4.5, 'cl']","('clear', 45)","{'clear': 45}",True
+94,56,5.6,"del","[56, 5.6, 'de']","('del', 56)","{'del': 56}",True
+95,67,6.7,"type","[67, 6.7, 'ty']","('type', 67)","{'type': 67}",True
+96,78,7.8,"str","[78, 7.8, 'st']","('str', 78)","{'str': 78}",True
+97,89,8.9,"int","[89, 8.9, 'in']","('int', 89)","{'int': 89}",True
+98,90,9.0,"float","[90, 9.0, 'fl']","('float', 90)","{'float': 90}",True
+99,12,1.2,"bool","[12, 1.2, 'bo']","('bool', 12)","{'bool': 12}",True
+100,23,2.3,"none","[23, 2.3, 'no']","('none', 23)","{'none': 23}",True
+101,100,10.0,"immutable","[100, 10.0, 'im']","('immutable', 100)","{'immutable': 100}",False
+102,200,20.0,"mutable","[200, 20.0, 'mu']","('mutable', 200)","{'mutable': 200}",True
+103,300,30.0,"sequence","[300, 30.0, 'se']","('sequence', 300)","{'sequence': 300}",True
+104,400,40.0,"object","[400, 40.0, 'ob']","('object', 400)","{'object': 400}",True
+105,500,50.0,"python","[500, 50.0, 'py']","('python', 500)","{'python': 500}",True
+106,600,60.0,"list","[600, 60.0, 'li']","('list', 600)","{'list': 600}",True
+107,700,70.0,"tuple","[700, 70.0, 'tu']","('tuple', 700)","{'tuple': 700}",False
+108,800,80.0,"dict","[800, 80.0, 'di']","('dict', 800)","{'dict': 800}",True
+109,900,90.0,"string","[900, 90.0, 'st']","('string', 900)","{'string': 900}",False
+110,1000,100.0,"number","[1000, 100.0, 'nu']","('number', 1000)","{'number': 1000}",True
+111,1100,110.0,"key-value","[1100, 110.0, 'kv']","('key', 'value', 1100)","{'key': 'value', 'num': 1100}",True
+112,1200,120.0,"element","[1200, 120.0, 'el']","('element', 1200)","{'element': 1200}",True
+113,1300,130.0,"update","[1300, 130.0, 'up']","('update', 1300)","{'update': 1300}",True
+114,1400,140.0,"delete","[1400, 140.0, 'de']","('delete', 1400)","{'delete': 1400}",True
+115,1500,150.0,"access","[1500, 150.0, 'ac']","('access', 1500)","{'access': 1500}",True
+116,1600,160.0,"index","[1600, 160.0, 'in']","('index', 1600)","{'index': 1600}",True
+117,1700,170.0,"len","[1700, 170.0, 'le']","('len', 1700)","{'len': 1700}",True
+118,1800,180.0,"append","[1800, 180.0, 'ap']","('append', 1800)","{'append': 1800}",True
+119,1900,190.0,"remove","[1900, 190.0, 're']","('remove', 1900)","{'remove': 1900}",True
+120,2000,200.0,"insert","[2000, 200.0, 'in']","('insert', 2000)","{'insert': 2000}",True
+121,2100,210.0,"sort","[2100, 210.0, 'so']","('sort', 2100)","{'sort': 2100}",True
+122,2200,220.0,"reverse","[2200, 220.0, 're']","('reverse', 2200)","{'reverse': 2200}",True
+123,2300,230.0,"clear","[2300, 230.0, 'cl']","('clear', 2300)","{'clear': 2300}",True
+124,2400,240.0,"del","[2400, 240.0, 'de']","('del', 2400)","{'del': 2400}",True
+125,2500,250.0,"type","[2500, 250.0, 'ty']","('type', 2500)","{'type': 2500}",True
+126,2600,260.0,"str","[2600, 260.0, 'st']","('str', 2600)","{'str': 2600}",True
+127,2700,270.0,"int","[2700, 270.0, 'in']","('int', 2700)","{'int': 2700}",True
+128,2800,280.0,"float","[2800, 280.0, 'fl']","('float', 2800)","{'float': 2800}",True
+129,2900,290.0,"bool","[2900, 290.0, 'bo']","('bool', 2900)","{'bool': 2900}",True
+130,3000,300.0,"none","[3000, 300.0, 'no']","('none', 3000)","{'none': 3000}",True
+131,3100,310.0,"object","[3100, 310.0, 'ob']","('object', 3100)","{'object': 3100}",True
+132,3200,320.0,"python","[3200, 320.0, 'py']","('python', 3200)","{'python': 3200}",True
+133,3300,330.0,"world","[3300, 330.0, 'wo']","('world', 3300)","{'world': 3300}",True
+134,3400,340.0,"practice","[3400, 340.0, 'pr']","('practice', 3400)","{'practice': 3400}",True
+135,3500,350.0,"lesson","[3500, 350.0, 'le']","('lesson', 3500)","{'lesson': 3500}",True
+136,3600,360.0,"example","[3600, 360.0, 'ex']","('example', 3600)","{'example': 3600}",True
+137,3700,370.0,"variable","[3700, 370.0, 'va']","('variable', 3700)","{'variable': 3700}",True
+138,3800,380.0,"value","[3800, 380.0, 'va']","('value', 3800)","{'value': 3800}",True
+139,3900,390.0,"key","[3900, 390.0, 'ke']","('key', 3900)","{'key': 3900}",True
+140,4000,400.0,"pair","[4000, 400.0, 'pa']","('pair', 4000)","{'pair': 4000}",True
+141,4100,410.0,"item","[4100, 410.0, 'it']","('item', 4100)","{'item': 4100}",True
+142,4200,420.0,"element","[4200, 420.0, 'el']","('element', 4200)","{'element': 4200}",True
+143,4300,430.0,"sequence","[4300, 430.0, 'se']","('sequence', 4300)","{'sequence': 4300}",True
+144,4400,440.0,"container","[4400, 440.0, 'co']","('container', 4400)","{'container': 4400}",True
+145,4500,450.0,"collection","[4500, 450.0, 'cl']","('collection', 4500)","{'collection': 4500}",True
+146,4600,460.0,"mapping","[4600, 460.0, 'ma']","('mapping', 4600)","{'mapping': 4600}",True
+147,4700,470.0,"indexing","[4700, 470.0, 'in']","('indexing', 4700)","{'indexing': 4700}",True
+148,4800,480.0,"access","[4800, 480.0, 'ac']","('access', 4800)","{'access': 4800}",True
+149,4900,490.0,"update","[4900, 490.0, 'up']","('update', 4900)","{'update': 4900}",True
+150,5000,500.0,"delete","[5000, 500.0, 'de']","('delete', 5000)","{'delete': 5000}",True
